@@ -1,0 +1,6 @@
+django
+django-widget-tweaks
+ipython
+markdown
+python-decouple
+dj-database-url
